@@ -75,3 +75,9 @@ const float MAX_DEPTH = 949.0f;
 ### ⚠️ Observação  
 Alterar esses valores permite **mover o Kinect** sem comprometer a qualidade da leitura e da projeção. É importante testar diferentes configurações até encontrar a faixa ideal para o seu ambiente.  
 
+<img width="604" height="341" alt="caixa de areia" src="https://github.com/user-attachments/assets/1539fa6e-7656-41cf-acca-7a2f712a0850" />
+
+![caixa 2](https://github.com/user-attachments/assets/3eef4e7e-ec48-4d90-a343-f02895660b77)
+
+
+![caixa 3](https://github.com/user-attachments/assets/f5f88c1a-1d4f-4450-a6d7-57e56cd76ffe)
