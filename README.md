@@ -9,7 +9,7 @@ Este repositório contém o código completo de um **jogo de realidade aumentada
 
 ## Funcionamento  
 - O **Kinect v1** captura a profundidade da superfície da areia.  
-- O código converte as distâncias em **cores** seguindo o gradiente:  
+- O código converte as distâncias em **cores*seguindo o gradiente:  
   - Violeta → nível mais baixo  
   - Anil  
   - Azul  
