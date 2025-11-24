@@ -40,7 +40,7 @@ Este repositório contém o código completo de um **jogo de realidade aumentada
 - Isso fará aparecer o caminho completo da pasta no terminal.  
 - Acesse o diretório do projeto.  
 - Digite `cd` antes do caminho exibido no terminal para entrar na pasta do código.  
-- Compile o código:  
+- Execute o seguinte comando (substitua ` NOME_DO_ARQUIVO.c ` pelo nome do seu arquivo):  
   ```bash
   clang -v NOME_DO_ARQUIVO.c -o NOME_DO_ARQUIVO -I./../include/libfreenect -L./../lib -lfreenect -framework OpenGL -framework GLUT
   ```  
