@@ -73,7 +73,7 @@ const float MAX_DEPTH = 949.0f;
 - Ajuste até que a projeção das cores corresponda corretamente ao relevo da areia.  
 
 ### ⚠️ Observação  
-Alterar esses valores permite **mover o Kinect** sem comprometer a qualidade da leitura e da projeção. É importante testar diferentes configurações até encontrar a faixa ideal para o seu ambiente.  
+Alterar esses valores permite **mover o Kinect** sem comprometer a qualidade da leitura e da projeção. É importante testar diferentes configurações até encontrar a faixa ideal para o seu ambiente.   
 
 <img width="604" height="341" alt="caixa de areia" src="https://github.com/user-attachments/assets/1539fa6e-7656-41cf-acca-7a2f712a0850" />
 
