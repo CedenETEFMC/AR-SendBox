@@ -53,7 +53,7 @@ Este repositório contém o código completo de um **jogo de realidade aumentada
   - Após o jogo abrir, pressione a tecla **espaço** para iniciar a partida.  
   - Toda partida deve ser iniciada manualmente pelo espaço.  
 
-## 🔧 Calibragem do Kinect  
+## Calibragem do Kinect  
 Para garantir uma leitura correta da profundidade e uma projeção alinhada, é necessário calibrar o Kinect ajustando os valores mínimos e máximos de distância.  
 
 No código, essa configuração é feita pelas variáveis:  
